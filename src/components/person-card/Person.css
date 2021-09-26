@@ -1,0 +1,24 @@
+.card{
+    margin: auto;
+    background: linear-gradient(to right, rgb(37, 34, 5), rgb(64, 73, 70));
+    border-radius: 8px;
+    color: rgb(241, 237, 237);
+}
+b{
+    font-weight: 500;
+}
+p{
+    line-height: 18px;
+}
+.card-img{
+    width: 150px;
+    border-radius: 50%;
+    margin: auto;
+    height: 150px;
+    object-fit: cover;
+    object-position: top center;
+    text-align: center;
+}
+.btn-color{
+    background-color: rgb(38, 139, 13) !important;
+}
